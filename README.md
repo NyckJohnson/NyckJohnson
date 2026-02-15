@@ -15,7 +15,7 @@ Spent 7 years at Cisco writing and maintaining 150+ technical tools for network 
 Good software needs three things: it works, it's maintainable, and people actually want to use it. I bring engineering rigor, clear communication (writer), and visual thinking (designer) to every project.
 
 ## Featured Projects
-🔹 [**WindDownApp**](https://github.com/NyckJohnson/WindDownApp) - A Routine Task app with alarm functionality. You can snooze doing-the-thing without blowing it off completely.
+🔹 [**WindDownApp**](https://github.com/NyckJohnson/WindDownApp) - A Routine Task app with alarm functionality. You can snooze doing-the-thing without blowing it off completely.  
 🔹 [**Time-Tracking-Analyser**](https://github.com/NyckJohnson/Time-Tracking-Analyser) - Analyze how you spend your time  
 🔹 [**keep-me-honest**](https://github.com/NyckJohnson/keep-me-honest) - Word processor with advanced writing quality checks  
 
