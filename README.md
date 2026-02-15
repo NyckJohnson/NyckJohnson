@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Nicholas Johnson
 
-<!--
-**NyckJohnson/NyckJohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software engineer + Author + Designer + Silly Goose** — I like making things.
 
-Here are some ideas to get you started:
+## Background
+Spent 7 years at Cisco writing and maintaining 150+ technical tools for network engineers. After that, I wrote a book, traveled the world, and I'm now combining my engineering background with graphic design to create better user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Build With
+**Backend:** Python, Perl, SQL, Django  
+**Frontend:** JavaScript, jQuery, Bootstrap, D3  
+**Infrastructure:** Docker, Kubernetes, Jenkins  
+**Currently Learning:** Swift, graphic design
+
+## Philosophy
+Good software needs three things: it works, it's maintainable, and people actually want to use it. I bring engineering rigor, clear communication (writer), and visual thinking (designer) to every project.
+
+## Featured Projects
+🔹 [**WindDownApp**](https://github.com/NyckJohnson/WindDownApp) - A Routine Task app with alarm functionality. You can snooze doing-the-thing without blowing it off completely.
+🔹 [**Time-Tracking-Analyser**](https://github.com/NyckJohnson/Time-Tracking-Analyser) - Analyze how you spend your time  
+🔹 [**keep-me-honest**](https://github.com/NyckJohnson/keep-me-honest) - Word processor with advanced writing quality checks  
+
+📫 **Open to opportunities** where engineering meets creativity — full-stack roles, dev tools, or anything that benefits from cross-disciplinary thinking.
