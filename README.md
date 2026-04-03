@@ -8,8 +8,7 @@ Spent 7 years at Cisco writing and maintaining 150+ technical tools for network 
 ## What I Build With
 **Backend:** Python, Perl, SQL, Django  
 **Frontend:** JavaScript, jQuery, Bootstrap, D3  
-**Infrastructure:** Docker, Kubernetes, Jenkins  
-**Currently Learning:** Swift, graphic design
+**Currently Learning:** Swift, iPhone/Mac, Graphic Design
 
 ## Philosophy
 Good software needs three things: it works, it's maintainable, and people actually want to use it. I bring engineering rigor, clear communication (writer), and visual thinking (designer) to every project.
