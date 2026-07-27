@@ -1,6 +1,6 @@
 # Hi, I'm Nicholas Johnson
 
-**Software engineer + Author + Designer + Silly Goose** — I like making things.
+**Engineer + Author + Designer + Silly Goose** — I like making things.
 
 ## Background
 Spent 7 years at Cisco writing and maintaining 150+ technical tools for network engineers. After that, I wrote a book, traveled the world, and I'm now combining my engineering background with graphic design to create better user experiences.
