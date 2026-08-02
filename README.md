@@ -1,15 +1,29 @@
 # Nick Johnson
 
-**Engineer + Author + Designer + Silly Goose** — I like making things that users like using.
+**Engineer + Author + Designer + Silly Goose** — I like making things.
 
 [GitHub](https://github.com/NyckJohnson) · [Email](mailto:nyck.johnson@gmail.com) · [Résumé](https://github.com/NyckJohnson/NyckJohnson/blob/main/Nicholas_Johnson_Resume.pdf)
 
+## Background
+Spent 7 years at Cisco writing and maintaining 150+ technical tools for network engineers. After that, I wrote a book, traveled the world, and I'm now integrating my engineering background with design skills to create better user experiences.
+
+## What I Build With
+**Backend:** Python, Perl, SQL, Django  
+**Frontend:** JavaScript, jQuery, Bootstrap, D3  
+**Currently Learning:** Swift, iPhone/Mac, Graphic Design
+
+## Philosophy
+Good software needs three things: it works, it's maintainable, and people actually want to use it. I bring engineering rigor, clear communication (writer), and visual thinking (designer) to every project.
+
+📫 **Open to opportunities** where engineering meets creativity — full-stack roles, dev tools, or anything that benefits from cross-disciplinary thinking.
+
+# Portfolio
 ---
 
-## 01 — Alarming Routines
+## Alarming Routines
 **iPhone · SwiftUI, Core Data, AppKit**
 
-I have tried hundreds of routine apps and quickly ignored them once I finished. Timers and alarms simply get turned off because I am busy and focused on something else. I needed an alarm I couldn't blow off, only snooze. No one else had made that for me so I made my own.
+I have tried hundreds of routine apps and quickly ignored them once I finished set up. Timers and alarms simply get turned off because I am busy and focused on something else. I needed an alarm I couldn't blow off, only snooze. No one else had made that for me so I made my own.
 
 [Source](https://github.com/NyckJohnson/RoutineBuilder-iOS)
 
