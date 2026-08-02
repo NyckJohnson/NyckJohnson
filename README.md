@@ -51,7 +51,7 @@ I have tried hundreds of routine apps and quickly ignored them once I finished s
 
 An encrypted file storage vault. Other apps expected a subscription for a UI so poorly implemented they are near unusable. Getting that UI to work right in all the edge cases did take a couple weeks for me but I'm pretty happy with the results.
 
-[Source](https://github.com/NyckJohnson/Secure-Vault)
+[Source](https://github.com/NyckJohnson/SecureVault)
 
 <table>
 <tr>
