@@ -14,9 +14,9 @@ I have tried hundreds of routine apps and quickly ignored them once I finished. 
 [Source](https://github.com/NyckJohnson/RoutineBuilder-iOS)
 
 <p float="left">
-  <img src="images/Routines/1.png" width="260" alt="Alarming Routines showing its main window with a list of routines." />
-  <img src="images/Routines/2.png" width="260" alt="Alarming Routines showing a morning routine with details and list of to-dos." />
-  <img src="images/Routines/3.png" width="260" alt="Alarming Routines running a routine with timer and to-do list." />
+  <img src="images/Routines/1.PNG" width="260" alt="Alarming Routines showing its main window with a list of routines." />
+  <img src="images/Routines/2.PNG" width="260" alt="Alarming Routines showing a morning routine with details and list of to-dos." />
+  <img src="images/Routines/3.PNG" width="260" alt="Alarming Routines running a routine with timer and to-do list." />
 </p>
 
 *Main window · Morning routine · Running routine*
@@ -31,10 +31,10 @@ An encrypted file storage vault. Every other app out there expected a subscripti
 [Source](https://github.com/NyckJohnson/Secure-Vault)
 
 <p float="left">
-  <img src="images/Vault/1.png" width="260" alt="Secure Vault lock screen" />
-  <img src="images/Vault/2.png" width="260" alt="Files view" />
-  <img src="images/Vault/3.png" width="260" alt="Image viewer" />
-  <img src="images/Vault/4.png" width="260" alt="Text viewer" />
+  <img src="images/Vault/1.PNG" width="260" alt="Secure Vault lock screen" />
+  <img src="images/Vault/2.PNG" width="260" alt="Files view" />
+  <img src="images/Vault/3.PNG" width="260" alt="Image viewer" />
+  <img src="images/Vault/4.PNG" width="260" alt="Text viewer" />
 </p>
 
 *Lock screen · Files view · Image viewer · Text viewer*
