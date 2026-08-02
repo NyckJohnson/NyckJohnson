@@ -1,21 +1,40 @@
-# Hi, I'm Nicholas Johnson
+# Nick Johnson
 
-**Engineer + Author + Designer + Silly Goose** — I like making things.
+**Engineer + Author + Designer + Silly Goose** — I like making things that users like using.
 
-## Background
-Spent 7 years at Cisco writing and maintaining 150+ technical tools for network engineers. After that, I wrote a book, traveled the world, and I'm now combining my engineering background with graphic design to create better user experiences.
+[GitHub](https://github.com/NyckJohnson) · [Email](mailto:nyck.johnson@gmail.com) · [Résumé](https://github.com/NyckJohnson/NyckJohnson/blob/main/Nicholas_Johnson_Resume.pdf)
 
-## What I Build With
-**Backend:** Python, Perl, SQL, Django  
-**Frontend:** JavaScript, jQuery, Bootstrap, D3  
-**Currently Learning:** Swift, iPhone/Mac, Graphic Design
+---
 
-## Philosophy
-Good software needs three things: it works, it's maintainable, and people actually want to use it. I bring engineering rigor, clear communication (writer), and visual thinking (designer) to every project.
+## 01 — Alarming Routines
+**iPhone · SwiftUI, Core Data, AppKit**
 
-## Featured Projects
-🔹 [**RoutineBuilder**](https://github.com/NyckJohnson/RoutineBuilder-iOS) - A Routine Task app with timer functionality. You can snooze doing-the-thing without blowing it off completely.  
-🔹 [**Time-Tracking-Analyser**](https://github.com/NyckJohnson/Time-Tracking-Analyser) - Analyze how you spend your time  
-🔹 [**keep-me-honest**](https://github.com/NyckJohnson/keep-me-honest) - Word processor with advanced writing quality checks  
+I have tried hundreds of routine apps and quickly ignored them once I finished. Timers and alarms simply get turned off because I am busy and focused on something else. I needed an alarm I couldn't blow off, only snooze. No one else had made that for me so I made my own.
 
-📫 **Open to opportunities** where engineering meets creativity — full-stack roles, dev tools, or anything that benefits from cross-disciplinary thinking.
+[Source](https://github.com/NyckJohnson/RoutineBuilder-iOS)
+
+<p float="left">
+  <img src="images/Routines/1.png" width="260" alt="Alarming Routines showing its main window with a list of routines." />
+  <img src="images/Routines/2.png" width="260" alt="Alarming Routines showing a morning routine with details and list of to-dos." />
+  <img src="images/Routines/3.png" width="260" alt="Alarming Routines running a routine with timer and to-do list." />
+</p>
+
+*Main window · Morning routine · Running routine*
+
+---
+
+## 02 — Secure Vault
+**iPhone · TypeScript, Node, Postgres**
+
+An encrypted file storage vault. Every other app out there expected a subscription for a UI so poorly implemented that they were unusable. Getting that UI to work right in all the edge cases did take a couple weeks but I'm pretty happy with the results.
+
+[Source](https://github.com/NyckJohnson/Secure-Vault)
+
+<p float="left">
+  <img src="images/Vault/1.png" width="260" alt="Secure Vault lock screen" />
+  <img src="images/Vault/2.png" width="260" alt="Files view" />
+  <img src="images/Vault/3.png" width="260" alt="Image viewer" />
+  <img src="images/Vault/4.png" width="260" alt="Text viewer" />
+</p>
+
+*Lock screen · Files view · Image viewer · Text viewer*
