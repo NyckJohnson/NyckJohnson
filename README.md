@@ -17,7 +17,7 @@ Good software needs three things: it works, it's maintainable, and people actual
 
 📫 **Open to opportunities** where engineering meets creativity — full-stack roles, dev tools, or anything that benefits from cross-disciplinary thinking.
 
-# Portfolio
+# Selected Work
 ---
 
 ## Alarming Routines
