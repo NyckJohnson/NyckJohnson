@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Your Name — Apps</title>
+<meta name="description" content="Applications built by Your Name.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --paper:   #eceef0;
+    --ink:     #16181c;
+    --muted:   #5c636e;
+    --rule:    #cfd3d8;
+    --accent:  #0f6e64;
+    --display: "Space Grotesk", system-ui, sans-serif;
+    --body:    "Inter", system-ui, sans-serif;
+    --mono:    "IBM Plex Mono", ui-monospace, monospace;
+    --measure: 68ch;
+  }
+
+  *, *::before, *::after { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    padding: 0 1.5rem 6rem;
+    background: var(--paper);
+    color: var(--ink);
+    font: 400 1rem/1.65 var(--body);
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .wrap { max-width: 62rem; margin: 0 auto; }
+
+  /* ---------- header ---------- */
+
+  .masthead {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem 2rem;
+    align-items: baseline;
+    justify-content: space-between;
+    padding: 5rem 0 2rem;
+    border-bottom: 2px solid var(--ink);
+  }
+
+  .masthead h1 {
+    margin: 0;
+    font: 700 clamp(2.5rem, 7vw, 4.25rem)/0.95 var(--display);
+    letter-spacing: -0.03em;
+  }
+
+  .masthead p {
+    margin: 0;
+    max-width: 30ch;
+    color: var(--muted);
+  }
+
+  .links {
+    display: flex;
+    gap: 1.25rem;
+    padding: 1rem 0 0;
+    font: 500 0.8125rem/1 var(--mono);
+    letter-spacing: 0.02em;
+  }
+
+  .links a { color: var(--ink); }
+
+  /* ---------- app entries ---------- */
+
+  .app {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    padding: 3.5rem 0;
+    border-bottom: 1px solid var(--rule);
+  }
+
+  @media (min-width: 52rem) {
+    .app { grid-template-columns: 1.1fr 1fr; align-items: start; gap: 3.5rem; }
+    .app--flip .app__shot { order: -1; }
+  }
+
+  .app__index {
+    font: 500 0.75rem/1 var(--mono);
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--accent);
+  }
+
+  .app__name {
+    margin: 0.75rem 0 0.5rem;
+    font: 700 clamp(1.5rem, 3vw, 2rem)/1.1 var(--display);
+    letter-spacing: -0.02em;
+  }
+
+  .app__body { max-width: var(--measure); color: var(--muted); }
+
+  .app__stack {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin: 1.5rem 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .app__stack li {
+    padding: 0.25rem 0.6rem;
+    border: 1px solid var(--rule);
+    border-radius: 2px;
+    background: #fff;
+    font: 400 0.75rem/1.4 var(--mono);
+  }
+
+  .app__actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.25rem;
+    margin-top: 1.75rem;
+    font: 500 0.875rem/1 var(--mono);
+  }
+
+  .app__actions a {
+    padding-bottom: 0.35rem;
+    border-bottom: 2px solid var(--accent);
+    color: var(--ink);
+    text-decoration: none;
+  }
+
+  .app__actions a:hover,
+  .app__actions a:focus-visible { color: var(--accent); }
+
+  .app__actions span {
+    padding-bottom: 0.35rem;
+    color: var(--muted);
+  }
+
+  /* screenshot framed like a window so raw captures read as product shots */
+  .app__shot {
+    margin: 0;
+    border: 1px solid var(--rule);
+    border-radius: 6px;
+    background: #fff;
+    overflow: hidden;
+    box-shadow: 0 1px 2px rgb(22 24 28 / 0.06), 0 12px 28px -12px rgb(22 24 28 / 0.25);
+  }
+
+  .app__chrome {
+    display: flex;
+    gap: 0.375rem;
+    padding: 0.625rem 0.75rem;
+    border-bottom: 1px solid var(--rule);
+    background: #e4e7ea;
+  }
+
+  .app__chrome i {
+    width: 0.625rem;
+    height: 0.625rem;
+    border-radius: 50%;
+    background: var(--rule);
+  }
+
+  .app__shot img { display: block; width: 100%; height: auto; }
+
+  .app__shot figcaption {
+    padding: 0.75rem;
+    border-top: 1px solid var(--rule);
+    font: 400 0.75rem/1.4 var(--mono);
+    color: var(--muted);
+  }
+
+  /* ---------- footer ---------- */
+
+  footer {
+    padding-top: 3rem;
+    font: 400 0.8125rem/1.6 var(--mono);
+    color: var(--muted);
+  }
+
+  a:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 3px;
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="masthead">
+    <div>
+      <h1>Your Name</h1>
+      <nav class="links">
+        <a href="https://github.com/yourusername">GitHub</a>
+        <a href="mailto:you@example.com">Email</a>
+        <a href="/resume.pdf">Résumé</a>
+      </nav>
+    </div>
+    <p>I build small, focused applications. Two of them are below.</p>
+  </header>
+
+  <main>
+
+    <!-- ===== App 1 ===== -->
+    <article class="app">
+      <div>
+        <p class="app__index">01 — Desktop</p>
+        <h2 class="app__name">App One</h2>
+        <div class="app__body">
+          <p>
+            One paragraph: what problem it solves, who it's for, and the one
+            thing that was hard to get right. Concrete beats clever — say
+            "parses 40k-row exports in under a second," not "blazing fast."
+          </p>
+        </div>
+        <ul class="app__stack">
+          <li>Python</li>
+          <li>SQLite</li>
+          <li>Qt</li>
+        </ul>
+        <div class="app__actions">
+          <a href="https://github.com/yourusername/app-one">Source</a>
+          <a href="https://example.com/app-one">Live demo</a>
+        </div>
+      </div>
+      <figure class="app__shot">
+        <div class="app__chrome" aria-hidden="true"><i></i><i></i><i></i></div>
+        <img src="images/app-one.png" alt="App One showing its main window with a project list and detail pane.">
+        <figcaption>Main window — project list and detail pane.</figcaption>
+      </figure>
+    </article>
+
+    <!-- ===== App 2 ===== -->
+    <article class="app app--flip">
+      <div>
+        <p class="app__index">02 — Web</p>
+        <h2 class="app__name">App Two</h2>
+        <div class="app__body">
+          <p>
+            Same shape as above. If the repo is private, drop the Source link
+            and leave a short note instead so visitors aren't sent to a 404.
+          </p>
+        </div>
+        <ul class="app__stack">
+          <li>TypeScript</li>
+          <li>Node</li>
+          <li>Postgres</li>
+        </ul>
+        <div class="app__actions">
+          <a href="https://example.com/app-two">Live demo</a>
+          <span>Source private — available on request</span>
+        </div>
+      </div>
+      <figure class="app__shot">
+        <div class="app__chrome" aria-hidden="true"><i></i><i></i><i></i></div>
+        <img src="images/app-two.png" alt="App Two dashboard showing weekly activity charts.">
+        <figcaption>Dashboard — weekly activity.</figcaption>
+      </figure>
+    </article>
+
+  </main>
+
+  <footer>
+    <p>Built with HTML and CSS. Hosted on GitHub Pages.</p>
+  </footer>
+
+</div>
+</body>
+</html>
