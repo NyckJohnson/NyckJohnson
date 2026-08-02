@@ -16,15 +16,15 @@ I have tried hundreds of routine apps and quickly ignored them once I finished. 
 <table>
     <tr>
         <td align="center">
-        <img src="images/Routines/1.png" width="260" alt="Alarming Routines showing its main window with a list of routines." /><br />
+        <img src="images/Routines/1.PNG" width="260" alt="Alarming Routines showing its main window with a list of routines." /><br />
         <sub>Main window</sub>
     </td>
     <td align="center">
-        <img src="images/Routines/2.png" width="260" alt="Alarming Routines showing a morning routine with details and list of to-dos." /><br />
+        <img src="images/Routines/2.PNG" width="260" alt="Alarming Routines showing a morning routine with details and list of to-dos." /><br />
         <sub>Morning routine</sub>
     </td>
     <td align="center">
-        <img src="images/Routines/3.png" width="260" alt="Alarming Routines running a routine with timer and to-do list." /><br />
+        <img src="images/Routines/3.PNG" width="260" alt="Alarming Routines running a routine with timer and to-do list." /><br />
         <sub>Running routine</sub>
     </td>
     </tr>
@@ -42,19 +42,19 @@ An encrypted file storage vault. Every other app out there expected a subscripti
 <table>
 <tr>
 <td align="center">
-<img src="images/Vault/1.png" width="260" alt="Secure Vault lock screen" /><br />
+<img src="images/Vault/1.PNG" width="260" alt="Secure Vault lock screen" /><br />
 <sub>Lock screen</sub>
 </td>
 <td align="center">
-<img src="images/Vault/2.png" width="260" alt="Files view" /><br />
+<img src="images/Vault/2.PNG" width="260" alt="Files view" /><br />
 <sub>Files view</sub>
 </td>
 <td align="center">
-<img src="images/Vault/3.png" width="260" alt="Image viewer" /><br />
+<img src="images/Vault/3.PNG" width="260" alt="Image viewer" /><br />
 <sub>Image viewer</sub>
 </td>
 <td align="center">
-<img src="images/Vault/4.png" width="260" alt="Text viewer" /><br />
+<img src="images/Vault/4.PNG" width="260" alt="Text viewer" /><br />
 <sub>Text viewer</sub>
 </td>
 </tr>
