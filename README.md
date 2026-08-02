@@ -16,16 +16,16 @@ I have tried hundreds of routine apps and quickly ignored them once I finished. 
 <table>
     <tr>
         <td align="center">
-        <img src="images/Routines/1.PNG" width="260" alt="Alarming Routines showing its main window with a list of routines." /><br />
-        <sub>Main window</sub>
+        <sub>Main window</sub><br />
+        <img src="images/Routines/1.PNG" width="260" alt="Alarming Routines showing its main window with a list of routines." />
     </td>
     <td align="center">
-        <img src="images/Routines/2.PNG" width="260" alt="Alarming Routines showing a morning routine with details and list of to-dos." /><br />
-        <sub>Morning routine</sub>
+        <sub>Morning routine</sub><br />
+        <img src="images/Routines/2.PNG" width="260" alt="Alarming Routines showing a morning routine with details and list of to-dos." />
     </td>
     <td align="center">
-        <img src="images/Routines/3.PNG" width="260" alt="Alarming Routines running a routine with timer and to-do list." /><br />
-        <sub>Running routine</sub>
+        <sub>Running routine</sub><br />
+        <img src="images/Routines/3.PNG" width="260" alt="Alarming Routines running a routine with timer and to-do list." />
     </td>
     </tr>
 </table>
@@ -33,29 +33,30 @@ I have tried hundreds of routine apps and quickly ignored them once I finished. 
 ---
 
 ## 02 — Secure Vault
-**iPhone · TypeScript, Node, Postgres**
+**iPhone · SwiftUI, Core Data, AppKit**
 
-An encrypted file storage vault. Every other app out there expected a subscription for a UI so poorly implemented that they were unusable. Getting that UI to work right in all the edge cases did take a couple weeks but I'm pretty happy with the results.
+An encrypted file storage vault. Other apps expected a subscription for a UI so poorly implemented they are near unusable. Getting that UI to work right in all the edge cases did take a couple weeks for me but I'm pretty happy with the results.
 
 [Source](https://github.com/NyckJohnson/Secure-Vault)
 
 <table>
 <tr>
 <td align="center">
-<img src="images/Vault/1.PNG" width="260" alt="Secure Vault lock screen" /><br />
-<sub>Lock screen</sub>
+<sub>Lock screen</sub><br />
+<img src="images/Vault/1.PNG" width="260" alt="Secure Vault lock screen" />
 </td>
 <td align="center">
-<img src="images/Vault/2.PNG" width="260" alt="Files view" /><br />
-<sub>Files view</sub>
+    <sub>Files view</sub><br />
+<img src="images/Vault/2.PNG" width="260" alt="Files view" />
 </td>
 <td align="center">
-<img src="images/Vault/3.PNG" width="260" alt="Image viewer" /><br />
-<sub>Image viewer</sub>
+<sub>Image viewer</sub><br />
+<img src="images/Vault/3.PNG" width="260" alt="Image viewer" />
+
 </td>
 <td align="center">
-<img src="images/Vault/4.PNG" width="260" alt="Text viewer" /><br />
-<sub>Text viewer</sub>
+    <sub>Text viewer</sub><br />
+<img src="images/Vault/4.PNG" width="260" alt="Text viewer" />
 </td>
 </tr>
 </table>
